@@ -7,17 +7,20 @@ A simple Android Movie Watchlist application built with **Kotlin** and **Jetpack
 ### 1. Initial screen
 The app starts with Avengers and Titanic in the watchlist. Avatar, Joker, and Inception are available to add.
 
-![Initial Movie Watchlist](screenshots/watchlist-initial-state.webp)
+![Initial Movie Watchlist]<img width="912" height="2048" alt="image" src="https://github.com/user-attachments/assets/24cb7076-3c1f-47b3-9599-06c5f7dd751a" />
+)
 
 ### 2. After adding a movie
 Avatar is added to the watchlist. The total movie count updates automatically.
 
-![Watchlist after adding Avatar](screenshots/watchlist-after-adding-avatar.webp)
+![Watchlist after adding Avatar](<img width="912" height="2048" alt="image" src="https://github.com/user-attachments/assets/a19d6efc-afb3-4907-a891-0a902e1952c3" />
+)
 
 ### 3. After removing movies
 Movies can be removed from the watchlist, and they return to the Available Movies section.
 
-![Watchlist after removing movies](screenshots/watchlist-after-removing-movies.webp)
+![Watchlist after removing movies](<img width="912" height="2048" alt="image" src="https://github.com/user-attachments/assets/2280fcbf-592d-41d9-a2c1-fa49b06b0335" />
+)
 
 ## ✨ Features
 
